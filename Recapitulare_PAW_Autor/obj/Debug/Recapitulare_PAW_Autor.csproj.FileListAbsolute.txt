@@ -1,0 +1,11 @@
+C:\Users\Vivi\source\repos\Recapitulare_PAW_Autor\Recapitulare_PAW_Autor\obj\Debug\Recapitulare_PAW_Autor.csproj.AssemblyReference.cache
+C:\Users\Vivi\source\repos\Recapitulare_PAW_Autor\Recapitulare_PAW_Autor\obj\Debug\Recapitulare_PAW_Autor.Form1.resources
+C:\Users\Vivi\source\repos\Recapitulare_PAW_Autor\Recapitulare_PAW_Autor\obj\Debug\Recapitulare_PAW_Autor.Properties.Resources.resources
+C:\Users\Vivi\source\repos\Recapitulare_PAW_Autor\Recapitulare_PAW_Autor\obj\Debug\Recapitulare_PAW_Autor.csproj.GenerateResource.cache
+C:\Users\Vivi\source\repos\Recapitulare_PAW_Autor\Recapitulare_PAW_Autor\obj\Debug\Recapitulare_PAW_Autor.csproj.CoreCompileInputs.cache
+C:\Users\Vivi\source\repos\Recapitulare_PAW_Autor\Recapitulare_PAW_Autor\bin\Debug\Recapitulare_PAW_Autor.exe.config
+C:\Users\Vivi\source\repos\Recapitulare_PAW_Autor\Recapitulare_PAW_Autor\bin\Debug\Recapitulare_PAW_Autor.exe
+C:\Users\Vivi\source\repos\Recapitulare_PAW_Autor\Recapitulare_PAW_Autor\bin\Debug\Recapitulare_PAW_Autor.pdb
+C:\Users\Vivi\source\repos\Recapitulare_PAW_Autor\Recapitulare_PAW_Autor\obj\Debug\Recapitulare_PAW_Autor.exe
+C:\Users\Vivi\source\repos\Recapitulare_PAW_Autor\Recapitulare_PAW_Autor\obj\Debug\Recapitulare_PAW_Autor.pdb
+C:\Users\Vivi\source\repos\Recapitulare_PAW_Autor\Recapitulare_PAW_Autor\obj\Debug\Recapitulare_PAW_Autor.Form2.resources
